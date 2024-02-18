@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<!--<a target="_blank" href="https://www.stefanosst.gr"><img src="[https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png](https://github.com/mariana-elizabeth-cruz/mariana-elizabeth-cruz/issues/1#issue-2140652147)"/></a>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
